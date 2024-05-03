@@ -1,5 +1,5 @@
 import React from "react";
-
+// import { name, city, color} from "./data/user.js"
 function Home(props) {
   return (
     <div id="home">
